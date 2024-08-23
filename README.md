@@ -20,7 +20,7 @@ techniques on various reall life projects.
 #### Mathematics and Machine Learning Intern @ The University of Bonn | Bonn, Germany 09/2022 - 01/2023
 
  • Designed and fine-tuned a Support Vector Machine and a Convolutional Neural Network, achieving an exceptional 97%
-classification accuracy with rigorous PyTorch optimization, up from 92%
+classification accuracy with rigorous PyTorch optimization, up from 92% \
  • Presented research at a University of Bonn workshop, showcasing international impact and receiving recognition for
 outstanding contributions
 
