@@ -12,7 +12,8 @@
 
 
 ### Work Experience
- #### Junior Data Scientist (Project) @ Chegg Skills/Thinkful | Remote 05/2023 - 10/2023
+
+#### Junior Data Scientist (Project) @ Chegg Skills/Thinkful | Remote 05/2023 - 10/2023
  
   • Conducted data science experimental design, data exploration in Python, SQL proficiency, and advanced statistical
 techniques on various reall life projects.
@@ -24,12 +25,12 @@ classification accuracy with rigorous PyTorch optimization, up from 92% \
  • Presented research at a University of Bonn workshop, showcasing international impact and receiving recognition for
 outstanding contributions
 
- #### Data science Intern @ African Institute for Mathematical Sciences (AIMS) | Kigali, Rwanda 05/2022 - 08/2022
+#### Data science Intern @ African Institute for Mathematical Sciences (AIMS) | Kigali, Rwanda 05/2022 - 08/2022
  
  • Conducted a relational model to explain payroll mechanisms, achieving a 15% improvement in understanding\
  • Directed a team of 5 in implementing SQL model algorithms, resulting in a 20% increase in efficiency and accuracy
 
- #### Freelance Data Science Consultant - AI Prompt Engineering @ Outliers  03/2024 - 08/2024
+#### Freelance Data Science Consultant - AI Prompt Engineering @ Outliers  03/2024 - 08/2024
  
  • Developed and optimized mathematical prompts to enhance AI model accuracy in data analysis tasks.\
  • Conducted rigorous review and refinement of AI-generated prompts, ensuring alignment with data-driven objectives.
