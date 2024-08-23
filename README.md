@@ -3,7 +3,6 @@
 
 ### Work Experience
 Junior Data Scientist (Project) Chegg Skills/Thinkful | Remote 05/2023 - 10/2023
-
 Conducted data science experimental design, data exploration in Python, SQL proficiency, and advanced statistical
 techniques on various real life projects. 
 Mathematics and Machine Learning Intern The University of Bonn | Bonn, Germany 09/2022 - 01/2023
